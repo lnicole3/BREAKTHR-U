@@ -18,20 +18,22 @@ A Mental Health Application
 
 ## Description
 
+This is an application where you can create journal entries online. Journals will have full CRUD abilities.
+
 ## Getting Started
 
 ## Planning
 
-![Wireframe](/images/break_wireframe.png)
-![Component Hierarchy Diagram](/images/break_chd)
-![Entity Relationship Diagram](/images/break_erd.png)
+![Wireframe](/client/images/break_wireframe.png)
+![Component Hierarchy Diagram](/client/images/break_chd)
+![Entity Relationship Diagram](/client/images/break_erd.png)
 
 ### Technologies Used
 
--PostgreSQL
--Express
--React
--Node
+- PostgreSQL
+- Express
+- React
+- Node
 
 ### Deployment
 
